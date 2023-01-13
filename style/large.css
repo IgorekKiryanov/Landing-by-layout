@@ -1,0 +1,67 @@
+.question__form {
+    padding: 50px 50px;
+    margin: 10px 30px;
+}
+
+.outer {
+    display: none;
+}
+
+.fantasy__gallery {
+    flex: 2;
+}
+
+.container {
+    padding: 0px 40px;
+}
+
+.wildest__fantasies>.container {
+    padding: 0px 60px;
+}
+
+.fantasy__type {
+    margin-right: 25px;
+    flex: 1;
+}
+
+img.img1 {
+    top: 100px;
+}
+
+.request__benefits {
+    padding-left: 30px;
+    padding-right: 38px; 
+}
+
+.request__form {
+    margin-right: 30px;
+    margin-left: 20px; 
+}
+
+.repair__type >.price {
+    top: 580px;
+}
+
+.online__control p {
+    padding: 0px 80px;
+}
+
+.bank {
+    margin: 15px 150px;
+}
+
+.container.top {
+    padding: 0px 30px;
+}
+
+img.img4 {
+    bottom: 200px;
+}
+
+.personas {
+    flex-direction: column;
+}
+
+.address {
+    padding: 0px 100px;
+}
